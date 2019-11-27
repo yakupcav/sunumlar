@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7db748a4-4c78-4b4d-8247-8d61e9f7777d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TE5D2DqkdUFnF6dMJ4tKedNmyL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../YOK" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="dddneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Caezar.dddneme" />
+      <module name="cryptoloji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hill.Matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playfair.main" />
+      <module name="cryptoloji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playfair.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vernam.main" />
+      <module name="cryptoloji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vernam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hill.main" />
+      <module name="cryptoloji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TranspositionTechniques.main" />
+      <module name="cryptoloji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TranspositionTechniques.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.main (4)" />
+        <item itemvalue="Application.dddneme" />
+        <item itemvalue="Application.main (3)" />
+        <item itemvalue="Application.main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7db748a4-4c78-4b4d-8247-8d61e9f7777d" name="Default Changelist" comment="" />
+      <created>1573012290874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573012290874</updated>
+      <workItem from="1573012292577" duration="1655000" />
+      <workItem from="1573017282634" duration="1426000" />
+      <workItem from="1573020208091" duration="2437000" />
+      <workItem from="1573024074999" duration="435000" />
+      <workItem from="1574217383445" duration="1551000" />
+      <workItem from="1574234134389" duration="1464000" />
+      <workItem from="1574258685998" duration="274000" />
+      <workItem from="1574297236355" duration="4589000" />
+      <workItem from="1574314262994" duration="403000" />
+      <workItem from="1574377662207" duration="20470000" />
+      <workItem from="1574406226137" duration="2473000" />
+      <workItem from="1574548089223" duration="2322000" />
+      <workItem from="1574603776736" duration="52000" />
+      <workItem from="1574743536956" duration="1218000" />
+      <workItem from="1574748551148" duration="1528000" />
+      <workItem from="1574752145647" duration="10192000" />
+      <workItem from="1574802376345" duration="10766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
